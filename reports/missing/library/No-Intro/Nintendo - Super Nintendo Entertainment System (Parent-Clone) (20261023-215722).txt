@@ -1,0 +1,830 @@
+2048 (World) (Aftermarket) (Unl).sfc
+240p Test Suite (World) (v1.061) (NTSC) (Program) (Aftermarket) (Unl).sfc
+240p Test Suite (World) (v1.061) (PAL) (Program) (Aftermarket) (Unl).sfc
+240p Test Suite (World) (v1.09) (NTSC) (Program) (Aftermarket) (Unl).sfc
+240p Test Suite (World) (v1.09) (PAL) (Program) (Aftermarket) (Unl).sfc
+ActRaiser (Japan) (Virtual Console).sfc
+ActRaiser (USA) (Beta).sfc
+Addams Family Values (USA) (Beta).sfc
+Addams Family, The - Pugsley's Scavenger Hunt (USA) (Beta 2).sfc
+Aero the Acro-Bat (World) (Evercade).sfc
+Aero the Acro-Bat 2 (USA) (Beta).sfc
+Akumajou Dracula (Japan) (Beta).sfc
+Akumajou Dracula (Japan) (Castlevania Anniversary Collection).sfc
+Akumajou Dracula (Japan) (Virtual Console).sfc
+Akumajou Dracula XX (Japan) (Castlevania Advance Collection).sfc
+Aladdin (World) (Disney Classic Games).sfc
+Alien 3 (USA) (Rev 1).sfc
+Alien Cat 2 (World) (Demo) (Aftermarket) (Unl).sfc
+Alien Cat 2 (World) (Evercade) (Aftermarket) (Unl).sfc
+Alien Cat 2 (World) (v1.1) (Evercade) (Aftermarket) (Unl).sfc
+Angelsong (World) (v1.1) (Aftermarket) (Unl).sfc
+Angelsong (World) (v1.2) (SNESDEV 2025) (Aftermarket) (Unl).sfc
+Angelsong (World) (v1.4) (Aftermarket) (Unl).sfc
+Animaniacs (USA) (Beta).sfc
+Apocalypse II (Europe) (Proto 2).sfc
+Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta 2).sfc
+Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta 3).sfc
+Arcana (USA) (Beta).sfc
+Aretha (Japan) (Rev 1) (NP).sfc
+Armored Police - Metal Jack (USA) (Proto 1).sfc
+Assault Suits Valken (USA) (Retro-Bit).sfc
+Assault Suits Valken (World) (En) (Switch).sfc
+Asterix (Europe) (En,Fr,De,Es) (Beta).sfc
+Atlas, The - Renaissance Voyager (Japan) (Rev 1).sfc
+Atmosfear (USA) (Proto).sfc
+Attack of the PETSCII Robots (World) (Demo) (Aftermarket) (Unl).sfc
+BLT (World) (Demo 1) (Aftermarket) (Unl).sfc
+BLT (World) (Demo 2) (Aftermarket) (Unl).sfc
+Bahamut Lagoon (Japan) (Virtual Console).sfc
+Ballz 3D - Fighting at Its Ballziest (USA) (Beta).sfc
+Batman Forever (USA) (Beta 1).sfc
+Batman Forever (USA) (Beta 2).sfc
+Batman Forever (USA) (Rev 1).sfc
+Battle Blaze (USA) (Beta 2).sfc
+Battle Cars (World) (Evercade).sfc
+Battle Master - Kyuukyoku no Senshi-tachi (Japan) (Sample).sfc
+Battle Robot Retsuden (Japan) (Rev 1).sfc
+Battletoads-Double Dragon (USA, Europe) (Retro-Bit).sfc
+Best of the Best - Championship Karate (Europe) (Beta 1).sfc
+Big Sky Trooper (USA) (Beta 1).sfc
+Biker Mice from Mars (Europe) (Sample).sfc
+Bing Bing! Bingo (Japan) (Beta).sfc
+Black Jewel Reborn (World) (Demo) (Aftermarket) (Unl).sfc
+Boogerman - A Pick and Flick Adventure (World) (Evercade).sfc
+Borderline (World) (Aftermarket) (Unl).sfc
+Borderline (World) (Beta) (Aftermarket) (Unl).sfc
+Boxing Legends of the Ring (USA) (Beta).sfc
+Brainies, The (Europe) (Beta).sfc
+Brawl Brothers (World) (Evercade).sfc
+Breath of Fire (USA) (Capcom Town).sfc
+Breath of Fire (USA, Europe) (Switch Online).sfc
+Breath of Fire - Ryuu no Senshi (Japan) (Rev 1) (Switch Online).sfc
+Breath of Fire II (USA, Europe) (Virtual Console, Switch Online).sfc
+Breath of Fire II - Shimei no Ko (Japan) (Rev 1) (Virtual Console, Switch Online).sfc
+Bubsy II (USA) (Beta).sfc
+Bubsy II (World) (Steam).sfc
+Bubsy II (World) (The Purrfect Collection).sfc
+Bubsy in - Claws Encounters of the Furred Kind (World) (Steam).sfc
+Bubsy in - Claws Encounters of the Furred Kind (World) (The Purrfect Collection).sfc
+Bucket (World) (Aftermarket) (Unl).sfc
+Bugs Bunny - Rabbit Rampage (USA) (Beta).sfc
+Captain Commando (USA) (Capcom Town).sfc
+Captain Novolin (USA) (En,Fr,Es) (Beta).sfc
+Carrot Man and The Great Garden Getaway (World) (Proto) (SNESDEV 2025) (NTSC) (Aftermarket) (Unl).sfc
+Carrot Man and The Great Garden Getaway (World) (Proto) (SNESDEV 2025) (PAL) (Aftermarket) (Unl).sfc
+Castlevania - Dracula X (USA) (Castlevania Advance Collection).sfc
+Castlevania - Vampire's Kiss (Europe) (Castlevania Advance Collection).sfc
+Chaos Drop (Europe) (Proto 1).sfc
+Chaos Drop (Europe) (Proto 2).sfc
+Chaos Drop (Europe) (Proto 3).sfc
+Chaos Engine, The (World) (Evercade).sfc
+Chips Challenge (World) (Itch.io) (Aftermarket) (Unl).sfc
+Chou Makaimura (Japan) (Beta).sfc
+Chou Makaimura (Japan) (Virtual Console, Switch Online).sfc
+Classic Kong (World) (Aftermarket) (Unl).sfc
+Classic Kong Complete (World) (v2.0) (Aftermarket) (Unl).sfc
+Clay Fighter (World) (Evercade) (Fixed).sfc
+Clay Fighter 2 - Judgment Clay (World) (Evercade) (Fixed).sfc
+ClayFighter (USA) (Beta 1) [b].sfc
+ClayFighter (USA) (Beta 2).sfc
+Claymates (Europe) (Beta) (Alt).sfc
+Claymates (Europe) (Beta).sfc
+Claymates (World) (Evercade).sfc
+College Slam (USA) (Beta).sfc
+Congo's Caper (USA) (Beta).sfc
+Contra (World) (En) (REV-D) (NES Conversion) (Aftermarket) (Unl).sfc
+Contra (World) (Ja) (REV-B) (NES Conversion) (Aftermarket) (Unl).sfc
+Contra (World) (Ja) (REV-C) (NES Conversion) (Aftermarket) (Unl).sfc
+Contra (World) (Ja) (REV-D) (NES Conversion) (Aftermarket) (Unl).sfc
+Contra Force (World) (Proto 1) (NES Conversion) (Aftermarket) (Unl).sfc
+Contra Force (World) (Proto 2) (NES Conversion) (Aftermarket) (Unl).sfc
+Contra III - The Alien Wars (USA) (Virtual Console).sfc
+Contra III - The Alien Wars (World) (Contra Anniversary Collection).sfc
+Contra IV - The Alien Wars (USA) (Beta).sfc
+Contra Spirits (World) (Contra Anniversary Collection).sfc
+Copa Libertadores 3 (Peru) (Es) (Pirate).sfc
+Creepy Bird (World) (Aftermarket) (Unl).sfc
+Creepy Bird (World) (v1.02) (Digital) (Aftermarket) (Unl).sfc
+Creepy Bird (World) (v1.02) (Digital) (Retro-Bit Generations) (Aftermarket) (Unl).sfc
+Cronela's Mansion (World) (Demo) (Aftermarket) (Unl).sfc
+CutThroat Island (USA) (Beta).sfc
+Cute Angela (World) (Unl).sfc
+D-Force (USA) (Beta).sfc
+DSP1 (World) (Enhancement Chip).bin
+DSP1 B (World) (Enhancement Chip).bin
+DSP2 (World) (Enhancement Chip).bin
+DSP3 (Japan) (Enhancement Chip).bin
+DSP4 (World) (Enhancement Chip).bin
+Dai-3-ji Super Robot Taisen (Japan) (Rev 3).sfc
+Darius Force (World) (Darius Cozmic Collection).sfc
+Darius Twin (World) (En) (Darius Cozmic Collection).sfc
+Darius Twin (World) (Ja) (Darius Cozmic Collection).sfc
+Daze Before Christmas (World) (Evercade).sfc
+Dead Dance (Japan) (Rev 1) (Switch Online).sfc
+Death and Return of Superman, The (USA) (Beta).sfc
+Demon's Blazon - Makaimura Monshou Hen (Japan) (Switch Online).sfc
+Demon's Crest (USA, Europe) (Switch Online).sfc
+Dennis the Menace (USA) (Beta).sfc
+Densetsu no Ogre Battle - The March of the Black Queen (Japan) (Sample).sfc
+Derby Stallion II (Japan) (Rev 1).sfc
+Descentralizado 1993 (Peru) (Ja) (Pirate).sfc
+Desolate (World) (v1.1) (SNESDEV 2025) (Aftermarket) (Unl).sfc
+Donkey Kong Country (USA, Europe) (Rev 2) (Virtual Console, Classic Mini, Switch Online).sfc
+Donkey Kong Country 2 - Diddy's Kong Quest (Europe) (En,Fr) (Rev 1) (Virtual Console).sfc
+Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De) (Rev 1) (Virtual Console).sfc
+Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1) (Virtual Console).sfc
+Donkey Kong Country 2 - Diddy's Kong Quest (USA, Europe) (En,Fr) (Rev 1) (Switch Online).sfc
+Doraemon 2 - Nobita no Toys Land Daibouken (Japan) (Beta).sfc
+Dottie - Dreads Nought (World) (v1.1) (Aftermarket) (Unl).sfc
+Dottie Flowers (Japan) (v1.1) (Aftermarket) (Unl).sfc
+Down the World - Mervil's Ambition (Japan) (Auto Demo).sfc
+Dragon - The Bruce Lee Story (USA) (Beta).sfc
+Dragon Ball Z - Final Bout (USA) (Pirate).sfc
+Dragon View (USA) (Limited Run Games).sfc
+Dragon View (World) (Evercade).sfc
+Drakkhen (World) (Evercade).sfc
+Dream - Land of Giants (Europe) (Proto).sfc
+Dual Orb - Seirei Tama Densetsu (Japan) (Beta).sfc
+DuckTales (World) (Beta 1) (NES Conversion) (Aftermarket) (Unl).sfc
+DuckTales (World) (Beta 2) (NES Conversion) (Aftermarket) (Unl).sfc
+DuckTales (World) (REV-A) (NES Conversion) (Aftermarket) (Unl).sfc
+DuckTales (World) (REV-B) (NES Conversion) (Aftermarket) (Unl).sfc
+DuckTales (World) (REV-C) (NES Conversion) (Aftermarket) (Unl).sfc
+DuckTales (World) (REV-F) (NES Conversion) (Aftermarket) (Unl).sfc
+DuckTales (World) (REV-G) (NES Conversion) (Aftermarket) (Unl).sfc
+DuckTales (World) (REV-H) (NES Conversion) (Aftermarket) (Unl).sfc
+ESPN Sunday Night NFL (USA) (Beta) [b].sfc
+Earth Defense Force (USA) (Beta).sfc
+Earth Defense Force (USA, Europe) (Switch Online).sfc
+EarthBound (USA) (Beta).sfc
+Earthworm Jim (USA) (Beta).sfc
+Earthworm Jim 2 (Europe) (Beta 1).sfc
+Earthworm Jim 2 (Europe) (Beta 2).sfc
+Earthworm Jim 2 (USA) (Beta).sfc
+Earthworm Jim 2 (World) (Evercade) (Fixed).sfc
+Elfaria - A Fantastic Theater (Japan) (Beta).sfc
+Eyra - The Crow Maiden (World) (Demo 1) (Aftermarket) (Unl).sfc
+Eyra - The Crow Maiden (World) (Demo 2) (Aftermarket) (Unl).sfc
+F-Zero (Japan) (En) (Virtual Console, Switch Online).sfc
+F-Zero (USA) (Beta).sfc
+F-Zero (USA, Europe) (Virtual Console, Classic Mini, Switch Online).sfc
+FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Sv) (A8FP).sfc
+Famicom Bunko - Hajimari no Mori (Japan) (Virtual Console).sfc
+Fatal Fury 2 (USA) (Beta).sfc
+Fighter's History (World) (Evercade).sfc
+Final Fantasy II (USA, Europe) (Rev 1) (Virtual Console).sfc
+Final Fantasy IV (Japan) (Rev 1) (Virtual Console).sfc
+Final Fight (Europe) (Virtual Console).sfc
+Final Fight (Japan) (Capcom Town).sfc
+Final Fight (Japan) (Virtual Console).sfc
+Final Fight (USA) (Capcom Town).sfc
+Final Fight (USA) (Virtual Console).sfc
+Final Fight 2 (Europe) (Virtual Console).sfc
+Final Fight 2 (Japan) (Capcom Town).sfc
+Final Fight 2 (USA) (Capcom Town).sfc
+Final Fight 2 (USA) (Virtual Console).sfc
+Final Fight 3 (USA) (Virtual Console).sfc
+Final Fight Tough (Japan) (Virtual Console).sfc
+Find Luigi (World) (Aftermarket) (Unl).sfc
+First Samurai (World) (QUByte Classics).sfc
+Fork Parker's Crunch Out (USA) (Aftermarket) (Unl).sfc
+From TV Animation Slam Dunk - Yonkyou Gekitotsu!! (Japan) (Rev 1).sfc
+Full Throttle - All-American Racing (World) (Evercade).sfc
+Furry RPG! (World) (Proto) (Aftermarket) (Unl).sfc
+Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (Rev 1) (Virtual Console).sfc
+Futbol Excitante (Peru) (Es) (Pirate).sfc
+Futbol Peruano 97 (Peru) (Es) (Pirate) [b].sfc
+Gakkou de Atta Kowai Hanashi (Japan) (Rev 1).sfc
+Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan) (Beta).sfc
+Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan) (Rev 2) (Virtual Console).sfc
+Ganbare Goemon 2 - Kiteretsu Shougun McGuiness (Japan) (Virtual Console).sfc
+Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Rev 2) (Virtual Console).sfc
+Gargoyles (USA) (Proto).sfc
+Ghoul Patrol (USA) (Limited Run Games).sfc
+Gojira - Kaijuu Daikessen (Japan) (Rev 1).sfc
+Goomba BreakOut (World) (Demo) (Aftermarket) (Unl).sfc
+Goomba BreakOut (World) (v1.3) (Aftermarket) (Unl).sfc
+Goomba BreakOut (World) (v1.4) (Aftermarket) (Unl).sfc
+Gourmet Warriors (Europe) (Piko Interactive).sfc
+Gourmet Warriors (USA) (Piko Interactive).sfc
+Gourmet Warriors (World) (QUByte Classics).sfc
+Great Battle Gaiden 2, The - Matsuri da Wasshoi (Japan) (Beta).sfc
+HD Retrovision Test Software (World) (v1.2) (Program) (Aftermarket) (Unl).sfc
+Hammerlock Wrestling (USA) (Beta).sfc
+Haou Taikei Ryuu Knight - Lord of Paladin (Japan) (Beta).sfc
+Harvest Moon (USA) (Beta).sfc
+Heiwa Pachinko World 3 (Japan).sfc
+Heracles no Eikou IV - Kamigami kara no Okurimono (Japan) (Virtual Console).sfc
+Hercules (USA) (Pirate).sfc
+Hind Strike (USA) (Aftermarket) (Unl).sfc
+Hong Kong '97 (Japan) (En,Ja,Zh-Hant) (CM) (Unl).sfc
+Hori GameCube Controller Test (Japan) (En).sfc
+Horizontal Shooter (World) (Demo 2) (Aftermarket) (Unl).sfc
+Hoshi no Kirby 3 (Japan) (Hoshi no Kirby - 20 Shuunen Special Collection).sfc
+Hoshi no Kirby Super Deluxe (Japan) (Rev 2) (Hoshi no Kirby - 20 Shuunen Special Collection).sfc
+Human Grand Prix 2 (Japan) (Beta).sfc
+Humans, The (World) (Evercade).sfc
+Humans, The (World) (QUByte Classics).sfc
+Hungry Dinosaurs (Europe) (Beta).sfc
+Ignition Factor, The (USA) (Beta).sfc
+Ignition Factor, The (World) (Evercade).sfc
+Illusion of Gaia (USA) (Beta 2).sfc
+Illvanian no Shiro (Japan) (Beta).sfc
+Imperium (USA) (Beta).sfc
+Incantation (World) (Evercade).sfc
+Incognity - A Rover Story (World) (v0.9.0) (Aftermarket) (Unl).sfc
+Incognity - A Rover Story (World) (v0.9.1) (Aftermarket) (Unl).sfc
+International Superstar Soccer Deluxe (Europe) (Beta).sfc
+Irem Skins Game, The (USA) (Beta).sfc
+Iron Commando (Europe) (Piko Interactive).sfc
+Iron Commando (World) (QUByte Classics) (PAL).sfc
+Iron Commando (World) (Steam) (NTSC).sfc
+Iron Commando (World) (v1.1) (Steam) (NTSC).sfc
+J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany) (Sample).sfc
+Jaleco Rally - Big Run - The Supreme 4WD Challenge (Japan) (En) (Rev 1).sfc
+Jelly Boy (Europe) (Beta 1) (NTSC).sfc
+Jelly Boy (Europe) (Beta 2).sfc
+Jerry Glanville's Pigskin Footbrawl (USA) (Proto).sfc
+Jet Pilot Rising (World) (De) (Aftermarket) (Unl).sfc
+Jet Pilot Rising (World) (De) (v1.1) (Aftermarket) (Unl).sfc
+Jetsons, The - Invasion of the Planet Pirates (USA) (Beta).sfc
+Jigsaw Party (Japan) (Beta).sfc
+Jim Power - The Lost Dimension in 3D (World) (Piko Interactive) (Enhanced).sfc
+Jim Power - The Lost Dimension in 3D (World) (Piko Interactive).sfc
+Jim Power - The Lost Dimension in 3D (World) (QUByte Classics).sfc
+Jimmy Connors Pro Tennis Tour (Germany) (Beta).sfc
+Jissen! Pachi-Slot Hisshouhou! 2 (Japan) (Rev 1).sfc
+Joe & Mac - Ultimate Caveman Collection (Europe) (Retro-Bit).sfc
+Joe & Mac 2 - Lost in the Tropics (USA) (Beta 1).sfc
+Joe & Mac 2 - Lost in the Tropics (World) (Evercade).sfc
+Jungle Book, The (World) (Disney Classic Games).sfc
+Jurassic Park (USA) (Beta).sfc
+Jurl (World) (Proto) (Aftermarket) (Unl).sfc
+Justice Ninja Casey (World) (Ratalaika Games).sfc
+Juusou Kihei Valken (World) (Ja) (Switch).sfc
+K-fet Invaders (World) (Aftermarket) (Unl).sfc
+Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle).sfc
+Kamen Rider (Japan) (Rev 1).sfc
+Kawasaki Superbike Challenge (Europe) (Beta).sfc
+Keeping SNES Alive (World) (Aftermarket) (Unl).sfc
+Kenyuu Densetsu Yaiba (Japan) (Beta).sfc
+Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (Beta 1).sfc
+Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (Beta 2).sfc
+Kevin Keegan's Player Manager (Europe) (Auto Demo).sfc
+Kevin Keegan's Player Manager (Europe) (Beta).sfc
+Kevin Keegan's Player Manager (Europe) (Demo 2).sfc
+Kick Off (Europe) (Beta).sfc
+Kick Off 3 - European Challenge (Europe) (Beta 1).sfc
+Kick Off 3 - European Challenge (Europe) (Beta 3).sfc
+Kid Klown in Crazy Chase (USA) (Beta 1).sfc
+Kikuni Masahiko no Jantoushi Doraou (Japan) (Beta).sfc
+King Arthur's World (USA) (Beta 2).sfc
+King of Fighters '98, The (USA) (Pirate).sfc
+King of the Monsters 2 (USA) (Beta).sfc
+Kirby Bowl (Japan) (Virtual Console, Switch Online).sfc
+Kirby Super Star (USA) (Kirby's Dream Collection - Special Edition).sfc
+Kirby's Dream Course (Europe) (Virtual Console).sfc
+Kirby's Dream Course (USA, Europe) (Virtual Console, Switch Online).sfc
+Kirby's Dream Land 3 (USA) (Kirby's Dream Collection - Special Edition).sfc
+Kouryuu Densetsu Villgust - Kieta Shoujo (Japan) (Rev 1).sfc
+Koutetsu no Kishi 3 - Gekitotsu Europe Sensen (Japan) (Rev 1).sfc
+Kunio no Oden (Japan) (Beta).sfc
+Kyuuyaku Megami Tensei (Japan) (Rev 1).sfc
+Last Battle, The (Japan) (Beta).sfc
+Last Super, The (World) (Aftermarket) (Unl).sfc
+Lawnmower Man, The (USA) (Beta 1).sfc
+Legend (World) (Piko Interactive).sfc
+Legend (World) (QUByte Classics).sfc
+Legend of Zelda, The (World) (REV-F) (Digital) (NES Conversion) (Aftermarket) (Pirate).sfc
+Legend of Zelda, The (World) (REV-G) (Digital) (NES Conversion) (Aftermarket) (Pirate).sfc
+Legend of Zelda, The (World) (REV-H) (Digital) (NES Conversion) (Aftermarket) (Pirate).sfc
+Legend of Zelda, The (World) (REV-I) (Digital) (NES Conversion) (Aftermarket) (Pirate).sfc
+Legend of Zelda, The - A Link to the Past (Europe) (Beta).sfc
+Legend of Zelda, The - A Link to the Past (France) (Beta 1).sfc
+Legend of Zelda, The - A Link to the Past (France) (Beta 2).sfc
+Legend of Zelda, The - A Link to the Past (Germany) (Beta).sfc
+Legend of Zelda, The - A Link to the Past (USA, Europe) (Switch Online).sfc
+Legend of the Mystical Ninja, The (USA) (Virtual Console).sfc
+Libble Rabble (World) (Evercade).sfc
+Lion King, The (USA) (Beta 1).sfc
+Lion King, The (World) (En) (Disney Classic Games).sfc
+Lion King, The (World) (Ja) (Disney Classic Games).sfc
+Little Master - Nijiiro no Maseki (Japan) (Beta).sfc
+Little Medusa (USA) (Aftermarket) (Unl).sfc
+Little Medusa (USA) (Demo) (Aftermarket) (Unl).sfc
+Lizard (World) (Aftermarket) (Unl).sfc
+Lizard (World) (Demo) (Aftermarket) (Unl).sfc
+Looney Tunes - Hoop It Up! (USA) (Beta).sfc
+Lucky Luke (Europe) (En,Fr,De,Es) (Beta).sfc
+Maerchen Adventure Cotton 100% (Japan) (Columbus Circle).sfc
+Maerchen Adventure Cotton 100% (USA) (Strictly Limited Games).sfc
+Magic Boy (Europe) (Beta).sfc
+Magic Sword (USA) (Capcom Town).sfc
+Magical Drop 2 (World) (Evercade).sfc
+Magical Drop II (USA, Europe) (Switch Online).sfc
+Magical Quest Starring Mickey Mouse, The (USA) (Beta 1).sfc
+Magical Quest Starring Mickey Mouse, The (USA) (Beta 3).sfc
+Magical Quest Starring Mickey Mouse, The (USA) (Rev 1).sfc
+Mai Nurse (World) (v1.02) (Aftermarket) (Unl).sfc
+Mario Is Missing! (USA) (Beta).sfc
+Mario's Super Picross (Europe) (Ja) (Virtual Console).sfc
+Mario's Time Machine (USA) (Beta).sfc
+Maru's Quest (Europe) (Proto).sfc
+Marvel Super Heroes - War of the Gems (Japan) (Beta).sfc
+Marvel Super Heroes vs. Street Fighter (USA) (Pirate).sfc
+Matsumura Kunihiro Den - Saikyou no Rekishi o Nurikaero! (Japan) (Beta).sfc
+MazezaM (World) (Proto 1) (Aftermarket) (Unl).sfc
+MazezaM (World) (Proto 2) (Aftermarket) (Unl).sfc
+MazezaM Challenge (World) (NEO Compo 2012) (Aftermarket) (Unl).sfc
+MazezaM Challenge (World) (v1.1) (NEO Compo 2012) (Aftermarket) (Unl).sfc
+MazezaM Challenge DX (World) (En,Fr) (v2.1) (NTSC) (Aftermarket) (Unl).sfc
+MazezaM Challenge DX (World) (En,Fr) (v2.1) (PAL) (Aftermarket) (Unl).sfc
+MechWarrior (USA) (Beta 2).sfc
+Mechanoids 2 - The Final Conflict (Europe) (Auto Demo).sfc
+Mechanoids 2 - The Final Conflict (Europe) (Proto).sfc
+Mega Family Bros (World) (Aftermarket) (Unl).sfc
+Mega Man (World) (REV-B) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man (World) (REV-D) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man (World) (REV-E) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man II (World) (REV-A) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man II (World) (REV-B) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man II (World) (REV-C) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man II (World) (REV-E) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man III (World) (REV-B) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man III (World) (REV-C) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man IV (World) (Beta) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man IV (World) (REV-A) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man IV (World) (REV-C) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man IV (World) (REV-D) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man IV (World) (REV-E) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man IV (World) (REV-G) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man V (World) (REV-C) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man V (World) (REV-E) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man VI (World) (REV-B) (NES Conversion) (Aftermarket) (Unl).sfc
+Mega Man X (USA) (Capcom Town).sfc
+Mega Man X (USA) (Mega Man X Collection).sfc
+Mega Man X (World) (En) (Mega Man X Legacy Collection).sfc
+Mega Man X2 (USA) (Mega Man X Collection).sfc
+Mega Man X2 (World) (En) (Mega Man X Legacy Collection).sfc
+Mega Man X3 (World) (En) (Mega Man X Legacy Collection).sfc
+Mer Wars (USA) (Proto).sfc
+Metal Marines (World) (Evercade).sfc
+Metroid (World) (Beta) (NES Conversion) (Aftermarket) (Unl).sfc
+Metroid (World) (REV-E) (NES Conversion) (Aftermarket) (Unl).sfc
+Metroid (World) (REV-F) (NES Conversion) (Aftermarket) (Unl).sfc
+Metroid (World) (REV-G) (NES Conversion) (Aftermarket) (Unl).sfc
+Michael Andretti's Indy Car Challenge (USA) (Sample).sfc
+Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta 1) (Debug).sfc
+Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta 2).sfc
+Mickey's Jigsaw Puzzles (USA) (Beta).sfc
+Might and Magic II (USA) (Proto 1).sfc
+Might and Magic II (USA) (Proto 2).sfc
+Mighty Max (USA) (Auto Demo).sfc
+Mike Tyson's Punch-Out!! (World) (2024) (REV-B) (NES Conversion) (Aftermarket) (Unl).sfc
+Mike Tyson's Punch-Out!! (World) (2024) (REV-C) (NES Conversion) (Aftermarket) (Unl).sfc
+Mike Tyson's Punch-Out!! (World) (2025) (REV-B) (NES Conversion) (Aftermarket) (Unl).sfc
+Monopoly Game 2, The (Japan) (Rev 1).sfc
+Mortal Kombat (Europe) (Rev 1).sfc
+Mortal Kombat (Europe) (Rev 2).sfc
+Mortal Kombat (USA) (Rev 1).sfc
+Mortal Kombat II (USA) (Beta).sfc
+Mother 2 - Gyiyg no Gyakushuu (Japan) (Virtual Console).sfc
+Moto-X (USA) (Aftermarket) (Unl).sfc
+Mr. Bloopy Saves the World (USA) (Proto 1) (Levels 000).sfc
+Mr. Bloppy Saves the World (USA) (Piko Interactive).sfc
+Mr. Nutz (USA) (En,Fr) (Beta 1).sfc
+Mr. Tuff (Europe) (En,Fr,De) (Proto 1).sfc
+Mr. Tuff (World) (En,Fr,De,Es,It) (The Retro Room).sfc
+Mutant Chronicles - Doom Troopers (USA) (Beta 1).sfc
+Mutant Chronicles - Doom Troopers (USA) (Beta 2).sfc
+N-Warp Daisakusen (World) (Aftermarket) (Unl).sfc
+NBA All-Star Challenge (USA) (Beta).sfc
+NBA Hang Time (Europe).sfc
+NBA Jam (USA) (Sample).sfc
+NBA Live 97 (USA) (Beta).sfc
+NCAA Final Four Basketball (USA) (Beta).sfc
+NHL 96 (Europe) (Sample).sfc
+NHLPA Hockey 93 (USA) (Rev 1).sfc
+Nekotako (Japan) (Demo) (Aftermarket) (Unl).sfc
+New Super Mario Land (World) (Aftermarket) (Unl).sfc
+New Super Mario Land (World) (v1.1) (Aftermarket) (Unl).sfc
+New Super Mario Land (World) (v1.2) (Aftermarket) (Unl).sfc
+New Super Mario Land (World) (v1.3) (Aftermarket) (Unl).sfc
+New Super Mario Land (World) (v1.5) (Aftermarket) (Unl).sfc
+Newman Haas IndyCar featuring Nigel Mansell (USA) (Beta).sfc
+Nightmare Busters (Europe) (Proto 1) (1994-06-21).sfc
+Nightmare Busters (Europe) (Proto 2) (1994-09-04).sfc
+Nightmare Busters (World) (Super Fighter Team) (Unl).sfc
+Ninja Gaiden Trilogy (World) (REV-A) (NES Conversion) (Aftermarket) (Unl).sfc
+Ninja Gaiden Trilogy (World) (REV-C) (NES Conversion) (Aftermarket) (Unl).sfc
+Nintama Rantarou (Japan).sfc
+Nintendo Campus Challenge 1992 (USA, Europe) (Competition Cart).sfc
+Nintendo Challenge (Japan) (En) (Competition Cart).sfc
+Nobunaga no Yabou - Tenshouki (Japan) (Rev 1).sfc
+Nosferatu (Japan) (Beta).sfc
+Noughts & Crosses (USA) (Possible Proto) (Nintendo Gateway System).sfc
+Nova the Squirrel 2 (World) (Demo) (Aftermarket) (Unl).sfc
+Numbers Paradise (Japan) (Rev 1).sfc
+Ogre Battle - The March of the Black Queen (USA, Europe) (Virtual Console).sfc
+Old Towers (USA) (Aftermarket) (Unl).sfc
+Olympic Summer Games (Europe) (Beta).sfc
+On the Ball (USA) (Beta).sfc
+Operation Logic Bomb - The Ultimate Search & Destroy (World) (Evercade).sfc
+Operation Thunderbolt (USA) (Beta).sfc
+Pac-Attack (World) (Evercade).sfc
+Pagemaster, The (USA) (Beta 3).sfc
+Panel de Pon (World) (Ja) (Rev 1) (Virtual Console, Switch Online).sfc
+Parodius Da! - Shinwa kara Owarai e (Japan) (Beta).sfc
+Peace Keepers, The (USA) (Beta).sfc
+Peru - Operation Chavin de Huantar (USA) (Demo) (Unl).sfc
+Picachu - Pocket Monsters (USA) (Pirate).sfc
+Picross NP Vol. 7 (Japan) (Rev 1) (NP).sfc
+Picross NP Vol. 8 (Japan) (Rev 1) (NP).sfc
+Pinkie (USA) (Aftermarket) (Unl).sfc
+Pinocchio (Europe) (Beta 1).sfc
+Pinocchio (Europe) (Beta 2).sfc
+Pinocchio (Europe) (Beta 3).sfc
+Pinocchio (Japan) (Beta 1).sfc
+Pinocchio (Japan) (Beta 2).sfc
+Pinocchio (Japan) (Beta 3).sfc
+Pinocchio (USA) (Beta 1).sfc
+Pinocchio (USA) (Beta 2).sfc
+Pinocchio (USA) (Beta 3).sfc
+Pinocchio (USA) (Beta 4).sfc
+Pinocchio (USA) (Beta 5).sfc
+Pocky & Rocky (USA) (Beta).sfc
+Pokemon Stadium (USA) (Pirate).sfc
+Pop'n TwinBee (Japan) (Beta 2).sfc
+Porky Pig's Haunted Holiday (USA) (Beta 1) (Introes).sfc
+Porky Pig's Haunted Holiday (USA) (Beta 1).sfc
+Porky Pig's Haunted Holiday (USA) (Beta 2) (Subgames).sfc
+Porky Pig's Haunted Holiday (USA) (Beta 3).sfc
+Porky Pig's Haunted Holiday (USA) (Beta 4).sfc
+Porky Pig's Haunted Holiday (USA) (Beta 6).sfc
+Power Piggs of the Dark Age (World) (Evercade).sfc
+PowerFest 94 (USA) (Competition Cart, 10k points).sfc
+PowerFest 94 (USA) (Competition Cart, 1m points).sfc
+Prehistorik Man (USA) (Beta).sfc
+Prehistorik Man (World) (Unl).sfc
+Prince of Persia (USA) (Beta).sfc
+Prince of Persia 2 - The Shadow & the Flame (USA) (Beta).sfc
+Pro Action Replay (Europe) (Unl) [b].sfc
+Pro Yakyuu Nettou - Puzzle Stadium (Japan) (Beta).sfc
+Puggsy (USA) (Proto).sfc
+Putty Squad (USA) (Proto).sfc
+Puzzle Bobble - Bust-A-Move (Europe) (Rev 1).sfc
+Qwak (World) (Aftermarket) (Unl).sfc
+Qwak (World) (Beta) (No Sound) (Aftermarket) (Unl).sfc
+R-Type III (Europe) (Virtual Console).sfc
+R-Type III (USA) (Virtual Console).sfc
+R-Type III - The Third Lightning (Japan) (En) (Virtual Console).sfc
+REM (World) (Demo) (Aftermarket) (Unl).sfc
+Race Drivin' (USA) (Beta).sfc
+Radical Rex (USA) (Beta).sfc
+Radical Rex (World) (QUByte Classics).sfc
+Raiden Densetsu (Japan) (En) (Beta).sfc
+Raiden Trad (USA) (Beta).sfc
+Reactor (Europe) (Proto).sfc
+Rendering Ranger R2 (USA) (Limited Run Games).sfc
+Rendering Ranger R2 (World) (Limited Run Games).sfc
+Return of Double Dragon (World) (Evercade).sfc
+Return of Double Dragon (World) (v1.1) (Evercade).sfc
+Ring Dash (World) (Aftermarket) (Unl).sfc
+Ring Dash (World) (Demo 1) (Aftermarket) (Unl).sfc
+Ring Dash (World) (Demo 2) (Aftermarket) (Unl).sfc
+Ring Dash (World) (Demo 3) (Aftermarket) (Unl).sfc
+Ring Dash (World) (Demo 4) (Aftermarket) (Unl).sfc
+Ring Dash (World) (Demo 5) (Aftermarket) (Unl).sfc
+Ring Dash (World) (Demo 6) (Aftermarket) (Unl).sfc
+Ring Dash (World) (Demo 7) (Aftermarket) (Unl).sfc
+Ring Dash (World) (v1.1) (Aftermarket) (Unl).sfc
+River City Girls Zero (World) (De) (Switch).sfc
+River City Girls Zero (World) (Es) (Switch).sfc
+River City Girls Zero (World) (Fr) (Switch).sfc
+River City Girls Zero (World) (It) (Switch).sfc
+River City Girls Zero (World) (Ja) (Switch).sfc
+River City Girls Zero (World) (Ko) (Switch).sfc
+River City Girls Zero (World) (Switch) (Original Translation).sfc
+River City Girls Zero (World) (Switch) (RCG Translation).sfc
+River City Girls Zero (World) (Zh-Hans) (Steam).sfc
+River City Girls Zero (World) (Zh-Hans) (Switch).sfc
+River City Girls Zero (World) (Zh-Hant) (Steam).sfc
+River City Girls Zero (World) (Zh-Hant) (Switch).sfc
+RoboCop Versus The Terminator (Europe) (Beta).sfc
+Rock 'N' Roll Racing (USA) (Demo) (Battle.net).sfc
+Rock N' Roll Racing (USA) (Beta 2).sfc
+Rockman X (World) (Ja) (Mega Man X Legacy Collection).sfc
+Rockman X2 (Japan) (Beta 1).sfc
+Rockman X2 (World) (Ja) (Mega Man X Legacy Collection).sfc
+Rockman X3 (Japan) (Beta 1).sfc
+Rockman X3 (Japan) (Beta 3).sfc
+Rockman X3 (World) (Ja) (Mega Man X Legacy Collection).sfc
+Romancing Sa-Ga (Japan) (Rev 1) (Virtual Console).sfc
+Rrodas Cross (World) (Demo 1) (Aftermarket) (Unl).sfc
+Rrodas Cross (World) (Demo 2) (Aftermarket) (Unl).sfc
+Rrodas Cross (World) (Demo 3) (Aftermarket) (Unl).sfc
+Run Saber (USA) (Beta 1).sfc
+Run Saber (USA) (Beta 2).sfc
+Rushing Beat (World) (Evercade).sfc
+SA-1 Speed Test (World) (v5.1) (Program) (Aftermarket) (Unl).sfc
+SA1 Demonstration Program (World) (Tech Demo).sfc
+SD The Great Battle - Aratanaru Chousen (Japan) (Rev 1).sfc
+SNES Christmas Game (World) (Aftermarket) (Unl).sfc
+ST010 (Japan, USA) (Enhancement Chip).bin
+ST011 (Japan) (Enhancement Chip).bin
+Samurai Shodown (USA) (Beta).sfc
+Sangokushi Eiketsuden (Japan) (Rev 1).sfc
+Sangokushi III (Japan) (Rev 2).sfc
+Secret of Evermore (Spain) (Rev 2).sfc
+Secret of Evermore (Unknown) (Beta) (Non-working) [b].sfc
+Secret of Mana (USA) (Virtual Console).sfc
+Secret of Mana (World) (De) (Collection of Mana).sfc
+Secret of Mana (World) (Fr) (Rev 1) (Collection of Mana).sfc
+Seifuku Densetsu - Pretty Fighter (Japan) (Beta).sfc
+Seiken Densetsu 2 (Japan) (Rev 1) (Seiken Densetsu Collection).sfc
+Seiken Densetsu 2 (Japan) (Rev 1) (Virtual Console).sfc
+Seiken Densetsu 3 (Japan) (Seiken Densetsu Collection).sfc
+Shadowrun (USA) (Beta 1).sfc
+Shadowrun (USA) (Beta 3).sfc
+Shinchou Kouki (Japan) (Rev 1).sfc
+Shinri Game 2, The - Magical Trip (Japan) (Rev 1).sfc
+Shockman Zero (USA, Europe) (Retro-Bit).sfc
+Shooter (USA) (Proto).sfc
+Side Pocket (World) (Evercade).sfc
+Skipp and Friends - Unexpected Journey (World) (PDroms Competition 4.01) (Aftermarket) (Unl).sfc
+Skipp and Friends - Unexpected Journey (World) (v1.1) (Aftermarket) (Unl).sfc
+Skuljagger - Revolt of the Westicans (World) (Evercade).sfc
+Slap Stick (USA) (Beta).sfc
+Sleep (Japan) (En) (Proto).sfc
+Snoopy Concert (Japan) (Beta).sfc
+Soccer Kid (World) (En,Fr,De,Es,It) (Evercade).sfc
+Soccer Kid (World) (En,Fr,De,Es,It) (GOG).sfc
+Socks the Cat Rocks the Hill (USA, Europe) (Second Dimension) (Unl).sfc
+Sonic The Hedgehog (USA) (Pirate).sfc
+Space Rescue Squad (World) (Demo 1) (SNESDEV 2025) (Aftermarket) (Unl).sfc
+Space Rescue Squad (World) (Demo 2) (Aftermarket) (Unl).sfc
+Special Tee Shot (USA) (Proto).sfc
+Speed Racer (USA) (Beta).sfc
+Speedy Gonzales in Los Gatos Bandidos (USA) (Beta 1).sfc
+SpellCraft - Aspects of Valor (USA) (Proto 2).sfc
+Spider-Man - Venom - Maximum Carnage (Europe) (Sample).sfc
+Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection).sfc
+Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection).sfc
+Sporting News, The - Baseball (USA) (Beta).sfc
+Sports Illustrated - Championship Football & Baseball (USA) (Beta 1).sfc
+Spot Goes to Hollywood (USA) (Proto 1).sfc
+Spot Goes to Hollywood (USA) (Proto 2).sfc
+Squirrel (USA) (Pirate).sfc
+Star Fox 2 (Japan) (Beta 10).sfc
+Star Fox 2 (Japan) (Beta 11).sfc
+Star Fox 2 (Japan) (Beta 12).sfc
+Star Fox 2 (Japan) (Beta 13) (Debug).sfc
+Star Fox 2 (Japan) (Beta 2).sfc
+Star Fox 2 (Japan) (Beta 5).sfc
+Star Fox 2 (Japan) (Beta 6).sfc
+Star Fox 2 (Japan) (Beta 8).sfc
+Star Fox 2 (Japan) (Beta 9).sfc
+Star Fox 2 (USA) (Beta 1).sfc
+Star Fox 2 (USA) (Beta 2).sfc
+Star Fox 2 (USA) (Beta 3).sfc
+Star Glider (Japan) (Demo).sfc
+Star Trek - Deep Space Nine - Crossroads of Time (USA) (Beta 2).sfc
+Star Trek - Starfleet Academy - Starship Bridge Simulator (Germany) (Sample).sfc
+Starwing (Germany) (Beta).sfc
+Stone Protectors (Japan) (Columbus Circle).sfc
+Stone Protectors (World) (Steam).sfc
+Street Fighter Alpha 2 (USA) (Capcom Town).sfc
+Street Fighter II (Europe) (Virtual Console).sfc
+Street Fighter II (Japan) (Beta).sfc
+Street Fighter II (Japan) (Capcom Town).sfc
+Street Fighter II (Japan) (Virtual Console).sfc
+Street Fighter II (USA) (Capcom Town).sfc
+Street Fighter II (USA) (Virtual Console).sfc
+Street Fighter II Turbo (Europe) (Rev 1) (Virtual Console).sfc
+Street Fighter II Turbo (Japan) (Rev 1) (Virtual Console).sfc
+Street Fighter II Turbo (USA) (Rev 1) (Virtual Console).sfc
+Street Fighter V (USA) (Pirate).sfc
+Street Racer (USA) (Beta 1).sfc
+Street Racer (World) (Evercade).sfc
+Street Racer (World) (GOG).sfc
+Super Adventure Island II (USA) (Beta).sfc
+Super Aleste (Japan) (Beta).sfc
+Super Baseball Simulator 1.000 2 (USA) (Proto).sfc
+Super Bases Loaded (USA) (Beta).sfc
+Super Block'em Sock'em (World) (Aftermarket) (Unl).sfc
+Super Bomberman 2 (USA) (Beta).sfc
+Super Boss Gaiden (World) (Aftermarket) (Unl).sfc
+Super Bug Hunters (World) (SNESDEV 2025) (Aftermarket) (Unl).sfc
+Super Bug Hunters (World) (v1.1) (Aftermarket) (Unl).sfc
+Super Buster Bros. (USA) (Beta).sfc
+Super C (World) (REV-A) (NES Conversion) (Aftermarket) (Unl).sfc
+Super C (World) (REV-B) (NES Conversion) (Aftermarket) (Unl).sfc
+Super Campeones (Peru) (Es) (Pirate).sfc
+Super Campeones 4 (Peru) (Es) (Pirate).sfc
+Super Castlevania IV (Europe) (Virtual Console).sfc
+Super Castlevania IV (USA) (Castlevania Anniversary Collection).sfc
+Super Castlevania IV (USA) (Virtual Console).sfc
+Super Chinese World 2 - Uchuuichi Butou Taikai (Japan) (Beta 1).sfc
+Super Combo Man (World) (Demo) (Aftermarket) (Unl).sfc
+Super Copa (USA) (Es,Pt) (Beta).sfc
+Super Descentralizado 1995 (Peru) (Es) (Pirate).sfc
+Super Descentralizado II (Peru) (Es) (Pirate).sfc
+Super Donkey (Japan) (En) (Proto 1).sfc
+Super Donkey (Japan) (En) (Proto 2).sfc
+Super Donkey Kong (Japan) (Rev 1) (Virtual Console, Classic Mini, Switch Online).sfc
+Super Donkey Kong 2 - Dixie & Diddy (Japan) (Rev 1) (Virtual Console).sfc
+Super E.D.F. (Japan) (En) (Switch Online).sfc
+Super Excidium Event (USA) (Aftermarket) (Unl).sfc
+Super Famicom Aging Program Ver. 1.00 (Japan) (En).sfc
+Super Full Metal Planet (Europe) (En) (Proto).sfc
+Super Full Metal Planet (Europe) (En,It) (Proto 1).sfc
+Super Full Metal Planet (Europe) (En,It) (Proto 2).sfc
+Super Game Boy (Europe) (Beta).sfc
+Super Game Boy (Japan, USA) (En) (Beta 1).sfc
+Super Game Boy (Japan, USA) (En) (Beta 2).sfc
+Super Game Boy 2 SGB2-CPU (Japan) (Enhancement Chip).bin
+Super Ghouls 'N Ghosts (USA) (Beta).sfc
+Super Ghouls 'N Ghosts (USA) (Capcom Town).sfc
+Super Ghouls 'N Ghosts (USA, Europe) (Virtual Console, Classic Mini, Switch Online).sfc
+Super Goal! 2 (World) (Evercade).sfc
+Super Gussun Oyoyo (Japan) (Beta 1).sfc
+Super High Impact (USA) (Beta 2).sfc
+Super Jinsei Game 2 (Japan) (Rev 1).sfc
+Super Loopz (Europe) (Proto).sfc
+Super MIDI Pak (World) (Aftermarket) (Unl).sfc
+Super Mario - Yoshi Island (Japan) (Beta).sfc
+Super Mario - Yoshi Island (Japan) (Rev 1) (Sample).sfc
+Super Mario - Yoshi Island (Japan) (Rev 2) (Sample).sfc
+Super Mario All-Stars (Europe) (Super Mario All-Stars - 25th Anniversary).sfc
+Super Mario All-Stars (Europe) (Virtual Console).sfc
+Super Mario All-Stars (USA) (Super Mario All-Stars - 25th Anniversary).sfc
+Super Mario All-Stars (USA) (Virtual Console).sfc
+Super Mario All-Stars (USA, Europe) (Switch Online).sfc
+Super Mario All-Stars (USA, Europe) (Wii U).sfc
+Super Mario Bros. (World) (REV-A) (NES Conversion) (Aftermarket) (Unl).sfc
+Super Mario Bros. (World) (REV-C) (NES Conversion) (Aftermarket) (Unl).sfc
+Super Mario Bros. Maker (World) (Proto 1) (NES Conversion) (Aftermarket) (Unl).sfc
+Super Mario Bros. Maker (World) (Proto 2) (NES Conversion) (Aftermarket) (Unl).sfc
+Super Mario Collection (Japan) (Rev 1) (Super Mario Collection - 25th Anniversary).sfc
+Super Mario Collection (Japan) (Rev 1) (Switch Online).sfc
+Super Mario Collection (Japan) (Rev 1) (Virtual Console).sfc
+Super Mario Kart (Japan) (Beta 1).sfc
+Super Mario Kart (Japan) (Beta 2).sfc
+Super Mario Kart (Japan) (Beta 3).sfc
+Super Mario Kart (USA) (Beta).sfc
+Super Mario RPG (Japan) (Virtual Console).sfc
+Super Mario RPG - Legend of the Seven Stars (USA, Europe) (Virtual Console).sfc
+Super Mario World (USA) (Beta).sfc
+Super Mario World (USA, Europe) (Virtual Console, Classic Mini, Switch Online).sfc
+Super Mario World - Super Mario Bros. 4 (Japan) (Classic Mini, Switch Online).sfc
+Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De) (Rev 2).sfc
+Super Metroid (Japan) (En,Ja) (Virtual Console, Switch Online).sfc
+Super Metroid (USA, Europe) (En,Ja) (Virtual Console, Classic Mini, Switch Online).sfc
+Super NES Control Deck Tester (Japan) (En) (Rev 1).sfc
+Super Nazo Puyo - Rulue no Roux (Japan) (Beta).sfc
+Super Ninja Boy (Europe) (Proto).sfc
+Super Ninja Boy (USA) (Beta).sfc
+Super Noah's Ark 3D (USA) (Piko Interactive) (Unl).sfc
+Super Noah's Ark 3D (World) (Steam) (Unl).sfc
+Super Nova (USA) (Beta).sfc
+Super Play Action Football (USA) (Beta).sfc
+Super Probotector - Alien Rebels (Europe) (Virtual Console).sfc
+Super Probotector - Alien Rebels (World) (Contra Anniversary Collection).sfc
+Super Punch-Out!! (Europe) (Beta).sfc
+Super Punch-Out!! (World) (GameCube).sfc
+Super Puyo Puyo 2 (World) (Ja) (Switch Online).sfc
+Super Rambler (World) (v1.01) (Aftermarket) (Unl).sfc
+Super Rambler (World) (v1.02) (Aftermarket) (Unl).sfc
+Super SWIV (Japan) (En) (Beta 2).sfc
+Super Siika (World) (Aftermarket) (Unl).sfc
+Super Star Wars (USA) (Beta 2).sfc
+Super Star Wars - Return of the Jedi (Europe) (Beta).sfc
+Super Street Fighter II (Europe) (Virtual Console).sfc
+Super Street Fighter II (USA) (Beta 1).sfc
+Super Street Fighter II (USA) (Beta 2).sfc
+Super Street Fighter II (USA) (Rev 1) (Virtual Console).sfc
+Super Street Fighter II (USA) (Rev 1).sfc
+Super Street Fighter II - The New Challengers (Japan) (Virtual Console).sfc
+Super Sudoku (World) (Beta 1) (Aftermarket) (Unl).sfc
+Super Sudoku (World) (Beta 2) (Aftermarket) (Unl).sfc
+Super Sudoku (World) (v1.0) (Aftermarket) (Unl).sfc
+Super Sudoku (World) (v1.1) (Aftermarket) (Unl).sfc
+Super Thor Quest (USA) (Aftermarket) (Unl).sfc
+Super Turrican (Europe) (Virtual Console).sfc
+Super Turrican (USA) (Virtual Console).sfc
+Super Turrican 2 (USA) (Strictly Limited Games).sfc
+Super Turrican Collection (USA) (Strictly Limited Games).sfc
+Super Widget (USA) (Beta).sfc
+Supercooked! (World) (Aftermarket) (Unl).sfc
+Supercooked! (World) (v1.1) (Aftermarket) (Unl).sfc
+Supercooked! (World) (v1.2) (Aftermarket) (Unl).sfc
+Superman (USA) (Auto Demo).sfc
+Supplication (World) (Proto) (Aftermarket) (Unl).sfc
+Sure Instinct (World) (v1.0) (NTSC) (Aftermarket) (Unl).sfc
+Sure Instinct (World) (v1.0) (PAL) (Aftermarket) (Unl).sfc
+Sure Instinct (World) (v1.0.1) (NTSC) (Aftermarket) (Unl).sfc
+Sure Instinct (World) (v1.0.1) (PAL) (Aftermarket) (Unl).sfc
+Sure Instinct (World) (v1.0.2) (NTSC) (Aftermarket) (Unl).sfc
+Sure Instinct (World) (v1.0.2) (PAL) (Aftermarket) (Unl).sfc
+Sydney Hunter and the Caverns of Death (World) (v1.1) (Evercade) (Aftermarket) (Unl).sfc
+TV-Chan's Great Escape! (World) (Aftermarket) (Unl).sfc
+Tactics Ogre - Let Us Cling Together (Japan) (Rev 1) (Virtual Console).sfc
+Targa (Europe) (Proto).sfc
+Targa (World) (Proto) (Limited Run Games).sfc
+Tarzan - Lord of the Jungle (USA) (Proto).sfc
+Taz-Mania (USA) (Beta 2).sfc
+Tchou (World) (NEO Compo 2012) (Aftermarket) (Unl).sfc
+Tchou (World) (v1.1) (Aftermarket) (Unl).sfc
+Tecmo Super NBA Basketball (USA) (SNS-NA).sfc
+Teenage Mutant Ninja Turtles (World) (REV-A) (NES Conversion) (Aftermarket) (Unl).sfc
+Teenage Mutant Ninja Turtles - Mutant Warriors (Japan) (The Cowabunga Collection).sfc
+Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (The Cowabunga Collection).sfc
+Teenage Mutant Ninja Turtles - Turtles in Time (Japan) (The Cowabunga Collection).sfc
+Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (Beta 2).sfc
+Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (The Cowabunga Collection).sfc
+Teenage Queen (World) (v1.4) (NTSC) (Aftermarket) (Unl).sfc
+Teenage Queen (World) (v1.4) (PAL) (Aftermarket) (Unl).sfc
+Tekken 2 (USA) (Pirate).sfc
+Tenchi Souzou (Japan) (Sample).sfc
+Tetris Battle Gaiden (Japan) (Beta).sfc
+Tetsuwan Atom (Japan) (Beta).sfc
+Theme Park (Europe) (En,Fr,De) (Beta).sfc
+Till & Hat (World) (Demo) (Aftermarket) (Unl).sfc
+Tinhead (World) (Piko Interactive).sfc
+Tintin in Tibet (Europe) (En,Es,Sv).sfc
+Titus the Fox (Europe) (Proto).sfc
+Tom and Jerry (USA) (Beta 1).sfc
+Tom vs Jerry - The Chase Is On! (Europe) (Proto 1).sfc
+Tom vs Jerry - The Chase Is On! (Europe) (Proto 2).sfc
+Tony Meola's Sidekicks Soccer (USA) (Beta 1).sfc
+Tony Meola's Sidekicks Soccer (USA) (Beta 2).sfc
+Tony Meola's Sidekicks Soccer (USA) (Beta 3) [b].sfc
+Top Racer (World) (Piko Interactive).sfc
+Top Racer 2 (World) (Piko Interactive).sfc
+Top Racer Crossroads (World) (QUByte Classics).sfc
+Top Racer Crossroads (World) (v1.1) (QUByte Classics).sfc
+Total Carnage (USA) (Beta 2).sfc
+Toy Story (Europe) (En,Fr,De) (Toy Story Retro Roundup!).sfc
+Toy Story (Japan) (Toy Story Retro Roundup!).sfc
+Toy Story (USA) (En,Fr,De) (Toy Story Retro Roundup!) (Definitive Edition).sfc
+Toy Story (USA) (Toy Story Retro Roundup!).sfc
+Treasure Hunter G (Japan) (Virtual Console).sfc
+Trials of Mana (World) (De) (Collection of Mana).sfc
+Trials of Mana (World) (De) (Rev 1) (Collection of Mana).sfc
+Trials of Mana (World) (En) (Beta) (Collection of Mana).sfc
+Trials of Mana (World) (En) (Collection of Mana).sfc
+Trials of Mana (World) (En) (Rev 1) (Collection of Mana).sfc
+Trials of Mana (World) (Es) (Collection of Mana).sfc
+Trials of Mana (World) (Es) (Rev 1) (Collection of Mana).sfc
+Trials of Mana (World) (Fr) (Collection of Mana).sfc
+Trials of Mana (World) (Fr) (Rev 1) (Collection of Mana).sfc
+Troddlers (Europe) (Beta 1).sfc
+Troddlers (Japan) (En) (Proto).sfc
+Turbo Toons (USA) (Proto).sfc
+UWOL - Quest for Money (World) (v1.3) (Aftermarket) (Unl).sfc
+Ultra Baseball Jitsumei Ban 2 (Japan) (Beta).sfc
+Unarmed (World) (SNESDEV 2025) (Aftermarket) (Unl).sfc
+Undake 30 - Same Game Daisakusen - Mario Version (Japan).sfc
+Undercover Cops (USA) (Retro-Bit).sfc
+Unholy Night - The Darkness Hunter (Europe) (Aftermarket) (Unl).sfc
+Unholy Night - The Darkness Hunter (Japan) (En) (Aftermarket) (Unl).sfc
+Unholy Night - The Darkness Hunter (USA) (Aftermarket) (Unl).sfc
+Unirally (Europe) (Beta).sfc
+Untitled Racing Game (USA) (Proto).sfc
+Utopia - The Creation of a Nation (USA) (Beta 1).sfc
+Utopia - The Creation of a Nation (USA) (Beta 3).sfc
+Utopia - The Creation of a Nation (World) (Evercade).sfc
+Vegas Stakes (USA) (Beta).sfc
+Venom - Spider-Man - Separation Anxiety (USA) (Sample).sfc
+Venom - Spider-Man - Separation Anxiety (World) (Marvel MaXimum Collection).sfc
+WWF WrestleMania - The Arcade Game (USA) (Beta) (Club Nintendo).sfc
+Wacky Races (Europe) (Proto).sfc
+Wanderknecht, Der - Jesus ist mein Leben (World) (v1.1) (Aftermarket) (Unl).sfc
+We're Back! - A Dinosaur's Story (USA) (Beta).sfc
+WeaponLord (World) (Evercade).sfc
+Where in Time Is Carmen Sandiego (USA) (En,Fr,De,Es,It) (Beta).sfc
+Whizz (USA) (Beta).sfc
+Wing Commander (Germany) (Rev 1).sfc
+World Class Rugby (Europe) (Beta).sfc
+World Class Rugby (Japan) (En) (Beta).sfc
+World Cup USA '94 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv) (Beta).sfc
+X Zone (Japan, USA) (En) (Beta).sfc
+Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Bitmap Bureau) (Aftermarket) (Unl).sfc
+Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Bitmap Bureau) (Aftermarket) (Unl)_rp2040-2024_03_23.bin
+Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Bitmap Bureau) (Aftermarket) (Unl)_rp2040.bin
+Yamaneko Bubsy no Daibouken (World) (The Purrfect Collection).sfc
+Yo-Yo Shuriken (World) (Aftermarket) (Unl).sfc
+Ys III - Wanderers from Ys (Japan) (Rev 1).sfc
+Zelda II - The Adventure of Link (World) (REV-G) (NES Conversion) (Aftermarket) (Unl).sfc
+Zelda II - The Adventure of Link (World) (REV-H) (NES Conversion) (Aftermarket) (Unl).sfc
+Zelda no Densetsu - Kamigami no Triforce (Japan) (Rev 2) (Virtual Console, Switch Online).sfc
+Zero the Kamikaze Squirrel (USA) (Limited Run Games).sfc
+Zero the Kamikaze Squirrel (World) (Evercade).sfc
+Zero4 Champ RR (Japan) (Rev 1).sfc
+Zombies (Europe) (Virtual Console).sfc
+Zombies Ate My Neighbors (USA) (Limited Run Games).sfc
+Zombies Ate My Neighbors (USA) (Virtual Console).sfc
+Zootto Mahjong! (Japan) (Rev 1) (NP).sfc
+[BIOS] Gateway NGUR 08 - Boot ROM (Australia).sfc
+sNESert Golfing (World) (Aftermarket) (Unl).sfc

@@ -1,0 +1,56 @@
+Alcazar - The Forgotten Fortress (USA).col
+Aquattack (USA).col
+Beamrider (USA).col
+Blockade Runner (USA).col
+Boulder Dash (USA).col
+Buck Rogers - Planet of Zoom (USA, Europe).col
+Bump 'n' Jump (USA, Europe).col
+Cabbage Patch Kids - Adventures in the Park (USA, Europe).col
+Carnival (USA, Europe).col
+Choplifter! (USA).col
+Congo Bongo (USA).col
+Cosmic Avenger (USA, Europe).col
+Dam Busters, The (USA).col
+Defender (USA).col
+Fathom (USA).col
+Flipper Slipper (USA, Europe).col
+Fraction Fever (USA).col
+Frenzy (USA, Europe).col
+Frogger (USA).col
+Frogger II - ThreeeDeep! (USA).col
+Galaxian (USA).col
+Gateway to Apshai (USA, Europe).col
+Gyruss (USA).col
+Heist, The (USA).col
+James Bond 007 (USA).col
+Jukebox (USA).col
+Jungle Hunt (USA).col
+Keystone Kapers (USA).col
+Linking Logic (USA).col
+Logic Levels (USA).col
+Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1).col
+Monkey Academy (USA).col
+Montezuma's Revenge (USA).col
+Moonsweeper (USA, Europe).col
+Mouse Trap (USA, Europe).col
+Mr. Do!'s Castle (USA).col
+Nova Blast (USA, Europe).col
+Omega Race (USA, Europe).col
+Pitstop (USA, Europe) (v1.1).col
+Popeye (USA).col
+Q-bert's Qubes (USA).col
+Roc 'N Rope (USA, Europe).col
+Rolloverture (USA).col
+Sewer Sam (USA).col
+Skiing (USA).col
+Slurpy (USA).col
+Squish'em Featuring Sam (USA).col
+Star Trek - Strategic Operations Simulator (USA).col
+Subroc (USA, Europe).col
+Super Cross Force (USA, Europe).col
+Tarzan (USA, Europe).col
+Tournament Tennis (USA).col
+Tutankham (USA).col
+War Room (USA).col
+WarGames (USA, Europe).col
+Wing War (USA).col

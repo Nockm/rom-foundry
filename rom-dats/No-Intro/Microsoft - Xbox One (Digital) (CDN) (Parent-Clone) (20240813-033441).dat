@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
+	<header>
+		<id>253</id>
+		<name>Microsoft - Xbox One (Digital) (CDN) (Parent-Clone)</name>
+		<description>Microsoft - Xbox One (Digital) (CDN) (Parent-Clone)</description>
+		<version>20240813-033441</version>
+		<date>20240813-033441</date>
+		<author>FakeShemp, Hiccup, NESBrew12, SonGoku, xprism, xuom2</author>
+		<url>https://www.no-intro.org</url>
+		<tos>https://datomatic.no-intro.org/terms.html</tos>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro do not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not part of the console scene, and is not involved in any P2P sharing.</piracy>
+	</header>
+</datafile>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
+	<header>
+		<id>115</id>
+		<name>LeapFrog - LeapPad (Parent-Clone)</name>
+		<description>LeapFrog - LeapPad (Parent-Clone)</description>
+		<version>20190401-035314</version>
+		<date>20190401-035314</date>
+		<author>FakeShemp</author>
+		<url>https://www.no-intro.org</url>
+		<tos>https://datomatic.no-intro.org/terms.html</tos>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro do not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not part of the console scene, and is not involved in any P2P sharing.</piracy>
+	</header>
+	<game name="Was ist das von Richard Scarry (Germany)">
+		<description>Was ist das von Richard Scarry (Germany)</description>
+		<rom name="Was ist das von Richard Scarry (Germany).bin" size="2097152" crc="744cd1f4" md5="f6b6d73967167c50123739d90e0179e6" sha1="797b9856ef6f96c92978303c6604c2f1ae2e9278"/>
+	</game>
+</datafile>

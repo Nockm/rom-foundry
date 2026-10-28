@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
+	<header>
+		<id>228</id>
+		<name>GamePark - GP2X (Parent-Clone)</name>
+		<description>GamePark - GP2X (Parent-Clone)</description>
+		<version>20220107-114835</version>
+		<date>20220107-114835</date>
+		<url>https://www.no-intro.org</url>
+		<tos>https://datomatic.no-intro.org/terms.html</tos>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro do not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not part of the console scene, and is not involved in any P2P sharing.</piracy>
+	</header>
+	<game name="Payback (Unknown)">
+		<description>Payback (Unknown)</description>
+		<rom name="Payback (Unknown).img" size="512110080" crc="1f6118c9" md5="60584c08a4831956c108905ecc856194" sha1="2a7251490a2e73bd91bf345bcc965aad191f9f16"/>
+	</game>
+</datafile>

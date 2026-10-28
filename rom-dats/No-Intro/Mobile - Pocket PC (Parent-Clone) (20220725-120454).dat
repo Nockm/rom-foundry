@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
+	<header>
+		<id>266</id>
+		<name>Mobile - Pocket PC (Parent-Clone)</name>
+		<description>Mobile - Pocket PC (Parent-Clone)</description>
+		<version>20220725-120454</version>
+		<date>20220725-120454</date>
+		<author>Hiccup, NovaAurora</author>
+		<url>https://www.no-intro.org</url>
+		<tos>https://datomatic.no-intro.org/terms.html</tos>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro do not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not part of the console scene, and is not involved in any P2P sharing.</piracy>
+	</header>
+	<game name="Fun Pocket PC Expansion Pack (USA)">
+		<description>Fun Pocket PC Expansion Pack (USA)</description>
+		<rom name="Fun Pocket PC Expansion Pack (USA).bin" size="4063232" crc="b42d36e0" md5="8b4e2ee1383a6e49389c450abe0f1d66" sha1="aef0dd144967e45595fad22efb53c5efe163d0a1"/>
+	</game>
+</datafile>

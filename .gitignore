@@ -1,0 +1,6 @@
+rom-dats/**/*.zip
+reference
+reports/local/
+rom-deploy
+rom-verified
+rom-sources

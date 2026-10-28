@@ -1,0 +1,26 @@
+4GRAVITY! (2024-03-26)(Spedaletti, Marco)(IT)(en).d64
+Alien Invaders (19xx)(Spiceware)[80 column][autoboot].d64
+Amaurote Isometric 128 (2022-05-29)(Elysium)[vic].d64
+Blitz! 128 (1986-09-29)(Hisel, Kevin)(SW)[autoboot].d64
+Burgerwhop (19xx)(Copeland, Brian L.)(PD)[80 column][autoboot].d64
+Cross Bomber (2021-05-13)(Caruso, Fabrizio)[z80][80col].d64
+Cross Chase (2021-05-13)(Caruso, Fabrizio)[z80][40col].d64
+Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[z80][40col].d64
+Cross Shoot (2021-05-13)(Caruso, Fabrizio)[z80][80col].d64
+Cross Shuriken (2023-06-30)(Caruso, Fabrizio)[40col].d64
+Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[z80][40col].d64
+Cross Stinger (2023-10-08)(Caruso, Fabrizio)[z80][40col].d64
+Cross Trex (2024-10-17)(Caruso, Fabrizio)[z80][40col].d64
+Frantic Freddie II 128 (2019-05-01)(Oziphantom).d64
+Kik-start 2 (1985)(Mastertronic)[autoboot].d64
+Last V8, The (1986)(Mastertronic)[!][autoboot].d64
+Maggot (2002-08-13)(Softwolves).d64
+Mah-Jongg Solitaire v2.0 (1989-07-29)(Tappe, Kurt)[autoboot].d64
+Mind Forever Voyaging, A (1985)(Infocom)(Side A)[80 column][autoboot].d64
+Mind Forever Voyaging, A (1985)(Infocom)(Side B)[80 column].d64
+QWAK Reset Edition 1.3 128 (2017-08-31)(Oziphantom).d64
+Rocky Horror Show, The (1986)(CRL).d64
+SOKO64+ (2024-06-29)(Spedaletti, Marco)(IT)(en).d64
+Tetris80 (1991)(Echo Magnetic Media)(PD)[80 column][autoboot].d64
+Trinity (1986)(Infocom)(Side A)[80 column][autoboot].d64
+Trinity (1986)(Infocom)(Side B)[80 column].d64

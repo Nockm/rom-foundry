@@ -1,0 +1,96 @@
+A.E. (World).60
+Aggressor (Europe).a0
+Alien (Japan, USA) (En).a0
+Alien Blitz (Japan, USA) (En).a0
+Alien Sidestep (Japan, USA) (En).a0
+Amidar (Europe).a0
+Amok! (World).a0
+Apple Panic (Japan, USA) (En).bin
+Arcadia (Europe).a0
+Astroblitz (Europe).a0
+Atlantis (Europe).a0
+Attack of the Mutant Camels (World).a0
+Avenger (Japan, USA) (En).a0
+Bandits (Japan, USA) (En).a0
+Battlezone (Japan, USA) (En).60
+Black Hole (Europe).a0
+Buck Rogers - Planet of Zoom (World).60
+Cannonball Blitz (Japan, USA) (En).20
+Cannonball Blitz (Japan, USA) (En).a0
+Capture the Flag (Japan, USA) (En).a0
+Centipede (Japan, USA) (En).20
+Choplifter (Europe).a0
+Clowns (Japan, USA) (En) (Joystick).a0
+Computer War (World).a0
+Congo Bongo (Japan, USA) (En).a0
+Cosmic Cruncher (World).a0
+Cosmic Jailbreak (Japan, USA) (En).a0
+Creepy Corridors (Japan, USA) (En).a0
+Crossfire (Europe).a0
+Defender (World) (v1.1).60
+Demon Attack (Europe).a0
+Dig Dug (Japan, USA) (En).20
+Donkey Kong (Japan, USA) (En).20
+Dragonfire (World).a0
+Fast Eddie (Japan, USA) (En).a0
+Frogger (Japan, USA) (En).a0
+Galaxian (World).a0
+Garden Wars (Japan, USA) (En).a0
+Ghost Manor (Japan, USA) (En).a0
+Gorf (Japan, USA) (En).a0
+Gridrunner (Europe).a0
+Jawbreaker II (Europe).a0
+Jelly Monsters (Japan, USA) (En).a0
+Jungle Hunt (Japan, USA) (En).60
+Jupiter Lander (Japan, USA) (En).a0
+K-Razy Antiks (Europe).60
+K-Razy Antiks (Europe).a0
+K-Star Patrol (Europe).60
+Lazer Zone (World).a0
+Lode Runner (World).60
+Lunar Leeper (Japan, USA) (En).20
+Lunar Leeper (Japan, USA) (En).a0
+Miner 2049'er (Europe).a0
+Money Wars (Japan, USA) (En).a0
+Monster Maze (World).a0
+Moon Patrol (Japan, USA) (En).60
+Motocross Racer (Japan, USA) (En).a0
+Mountain King (Japan, USA) (En).60
+Ms. Pac-Man (Japan, USA) (En).60
+Mutant Herd (Europe).a0
+Omega Race (Japan, USA) (En).a0
+Pac-Man (World).a0
+Pharaoh's Curse (World).60
+Pipes (Japan, USA) (En).a0
+Polaris (Japan, USA) (En).a0
+Pole Position (Japan, USA) (En).60
+Protector (World).a0
+Q-bert (Japan, USA) (En).a0
+Raid on Fort Knox (World).a0
+Rat Hotel (Europe).a0
+River Rescue (World).a0
+Robot Panic (World).a0
+Seafox (Japan, USA) (En).60
+Serpentine (Europe).a0
+Shamus (Japan, USA) (En).a0
+Sir Lancelot (World).a0
+Skyblazer (Japan, USA) (En).60
+Snake Byte (Japan, USA) (En).a0
+Spider City (Japan, USA) (En).a0
+Spiders of Mars (Europe).a0
+Spike's Peak (Japan, USA) (En).a0
+Springer (Japan, USA) (En).60
+Squish'Em (Japan, USA) (En).60
+Star Battle (Japan, USA) (En).a0
+Star Trek - Strategic Operations Simulator (World).a0
+Super Amok (Japan, USA) (En).a0
+Super Smash (Europe).a0
+Terraguard (Europe).a0
+Threshold (Japan, USA) (En).a0
+Tooth Invaders (Japan, USA) (En).a0
+Trashman (World).a0
+Turmoil (Japan, USA) (En).a0
+Tutankham (World).a0
+VIC Radar Rat Race (Europe).a0
+VIC Super Lander (Japan, USA) (En).a0
+Wacky Waiters (Europe) (SYS 48896).a0

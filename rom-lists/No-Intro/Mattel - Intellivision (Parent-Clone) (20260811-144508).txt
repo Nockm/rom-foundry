@@ -1,0 +1,79 @@
+Advanced Dungeons & Dragons (USA, Europe).int
+Advanced Dungeons & Dragons - Treasure of Tarmin (USA, Europe).int
+Astrosmash (USA, Europe).int
+Atlantis (USA, Europe).int
+Auto Racing (World) (Screen-Relative Steering).int
+B-17 Bomber (USA, Europe).int
+Beamrider (USA, Europe).int
+Beauty & the Beast (USA, Europe).int
+Blockade Runner (USA).int
+Body Slam! - Super Pro Wrestling (USA).int
+Bump 'n' Jump (USA, Europe).int
+BurgerTime (USA, Europe).int
+Buzz Bombers (USA, Europe).int
+Carnival (USA, Europe).int
+Centipede (USA).int
+Chip Shot - Super Pro Golf (USA).int
+Commando (USA).int
+Defender (USA).int
+Demon Attack (USA, Europe).int
+Dig Dug (USA).int
+Diner (USA).int
+Dracula (USA, Europe).int
+Dragonfire (USA, Europe).int
+Dreadnaught Factor, The (USA).int
+Fathom (USA, Europe).int
+Frog Bog (World).int
+Frogger (USA, Europe).int
+Happy Trails (USA, Europe).int
+Hover Force (USA).int
+Ice Trek (USA, Europe).int
+Kool-Aid Man (USA).int
+Lady Bug (USA, Europe).int
+Lock 'N' Chase (USA, Europe).int
+Loco-Motion (USA).int
+Masters of the Universe - The Power of He-Man (USA, Europe).int
+Microsurgeon (USA, Europe).int
+Mission X (USA, Europe).int
+Motocross (USA, Europe).int
+Mountain Madness - Super Pro Skiing (USA).int
+Mouse Trap (USA, Europe).int
+Night Stalker (World).int
+Nova Blast (USA, Europe).int
+Pac-Man (USA) (INTV Corp.).int
+Pinball (USA).int
+Pitfall! (USA, Europe).int
+Pole Position (USA).int
+Popeye (USA, Europe).int
+Reversi (USA, Europe).int
+River Raid (USA, Europe).int
+Royal Dealer (USA, Europe).int
+Safecracker (USA, Europe).int
+Sewer Sam (USA).int
+Shark! Shark! (USA, Europe).int
+Slam Dunk - Super Pro Basketball (USA).int
+Slap Shot - Super Pro Hockey (USA).int
+SNAFU (World).int
+Space Armada (World).int
+Space Battle (World) (v1.1).int
+Space Hawk (USA, Europe).int
+Space Spartans (USA, Europe).int
+Spiker - Super Pro Volleyball (USA).int
+Stadium Mud Buggies (USA).int
+Stampede (USA, Europe).int
+Star Strike (World).int
+Sub Hunt (USA, Europe).int
+Super Cobra (USA, Europe).int
+Super Pro Football (USA) (Revision).int
+Swords & Serpents (USA, Europe).int
+Thin Ice (USA).int
+Thunder Castle (USA).int
+Tower of Doom (USA).int
+TRON Deadly Discs (USA, Europe).int
+Tropical Trouble (USA, Europe).int
+Utopia (USA, Europe).int
+Venture (USA, Europe).int
+White Water! (USA, Europe).int
+World Championship Baseball (USA).int
+World Cup Soccer (USA, Europe).int
+Worm Whomper (USA, Europe).int

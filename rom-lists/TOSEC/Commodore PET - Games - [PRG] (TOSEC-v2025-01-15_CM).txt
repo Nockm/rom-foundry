@@ -1,0 +1,30 @@
+Adventure (1979-05-15)(Jessee, Jeff - Adams, Scott).prg
+Afo (19xx)(TPUG)(en-ja)[8k].prg
+Artillery (1979)(Creative Computing Software).prg
+Blockade Special (1981)(Winkler, Gil).prg
+Bomber (1979-07-06)(Gleason, Arne).prg
+Breakout (1980)(-).prg
+Buggy (1979)(Finzer, Bill).prg
+Carrace II (19xx)(PUG).prg
+Cosmic Fighter (1982)(MS Software).prg
+Crazy Balloon (1980)(-).prg
+Cross Bomber (2021-05-13)(Caruso, Fabrizio)[16K].prg
+Cross Chase (2021-05-13)(Caruso, Fabrizio)[16K].prg
+Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[16K].prg
+Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[16K].prg
+Cross Trex (2024-10-19)(Caruso, Fabrizio)[16K].prg
+Cursor #04 - BOP (1978-10)(Fisher, Glen).prg
+Cursor #14 - Cops (1979-10)(Fisher, Glen).prg
+Cursor #15 - Dungeon (1979-12)(Sawyer, Brian).prg
+Cursor #16 - Aliens! (1980-01)(Hamilton, Mike).prg
+Cursor #16 - Bonzo! (1980-01)(Lockwood, Randall).prg
+Cursor #16 - Fire! (1980-01)(Sawyer, Brian).prg
+Cursor #19 - Miner (1980-04)(Longfellow, Ron).prg
+Cursor #21 - Ouranos! (1980-07)(Higby, Kathy).prg
+Cursor #23 - Ambush! (1980-12)(Bayman, Phil).prg
+Microchess 2.0 (1978)(Jennings, Peter).prg
+PET Super Baseball v7.4 (1983-07-13)(Suzuki, J. - Bradley, D.).prg
+Shuriken (2023-07-29)(Caruso, Fabrizio)[16K].prg
+Space Invaders (19xx)(-).prg
+Space War (19xx)(-).prg
+Stinger (2023-10-22)(Caruso, Fabrizio)[16K].prg
